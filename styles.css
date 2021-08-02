@@ -1,16 +1,18 @@
 .main-content {
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
-
+    flex-wrap: wrap;
 }
 
-.searchbar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.google-image, .search-form {
+    position: absolute;
 }
 
+.search-form {
+    bottom: 600px;
+}
 .search {
     border-radius: 25px;
     border-color: rgb(182, 188, 189);
