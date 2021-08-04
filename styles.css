@@ -56,13 +56,13 @@ input[type="submit"] {
 }
 .search-button {
     position: absolute;
-    top: 150px;
+    top: 140px;
     right: 300px;
 }
 
 .lucky-button {
     position: absolute;
-    top: 150px;
+    top: 140px;
     right: 150px; 
 }
 
